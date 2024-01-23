@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg_gradient {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.9),
+    rgba(0, 0, 0, 0)
+  );
+}
+
+.bg_card_gradient {
+  background: linear-gradient(rgba(0, 0, 0, 0), 70%,rgba(0, 0, 0, 1));
+}
+
+.bg_about_gradient {
+  background: linear-gradient(rgba(255, 255, 255, 0), 50%,rgb(255, 255, 255));
+}
