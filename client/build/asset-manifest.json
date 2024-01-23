@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b7208c3.css",
+    "main.js": "/static/js/main.0699327e.js",
+    "static/media/Adventure.svg": "/static/media/Adventure.04c10827c0bf7d4e16a6bdd265d7e8ab.svg",
+    "static/media/Action.svg": "/static/media/Action.bcbd042539352dd432b6753069ab6aed.svg",
+    "static/media/Shooter.svg": "/static/media/Shooter.a9c418f2f3cc882e3a6f2abc2edf9c93.svg",
+    "static/media/Sports.svg": "/static/media/Sports.ccaefab8073f877d573c34a239c06663.svg",
+    "static/media/RPG.svg": "/static/media/RPG.4685f3de1851c4e1b46a8bb6882114a6.svg",
+    "static/media/Racing.svg": "/static/media/Racing.a82516c54cee0e8b8be3dadcb1abfbc3.svg",
+    "static/media/Rating.svg": "/static/media/Rating.80a36cc2ee3da88d985c316c7b52fc66.svg",
+    "static/media/Puzzle.svg": "/static/media/Puzzle.e6d53cc003bf56780381752f33ccb1b3.svg",
+    "static/media/Strategy.svg": "/static/media/Strategy.06c387609c07a97925a45baf5db5a45a.svg",
+    "index.html": "/index.html",
+    "main.2b7208c3.css.map": "/static/css/main.2b7208c3.css.map",
+    "main.0699327e.js.map": "/static/js/main.0699327e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7208c3.css",
+    "static/js/main.0699327e.js"
+  ]
+}
