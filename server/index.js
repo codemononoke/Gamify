@@ -13,7 +13,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://transcendent-malasada-145041.netlify.app",
+    origin: "https://gamify-pp891.netlify.app/",
     credentials: true,
   })
 );
